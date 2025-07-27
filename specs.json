@@ -1,9 +1,9 @@
 {
   "specs": [
     {
-      "title": "Spec-Up-T Starterpack",
+      "title": "Change this",
       "description": "Create technical specifications in markdown. Based on the original Spec-Up, extended with Terminology tooling",
-      "author": "Trust over IP Foundation",
+      "author": "Kor",
       "spec_directory": "./spec",
       "spec_terms_directory": "terms-definitions",
       "output_path": "./docs",
